@@ -1,0 +1,5 @@
+string source_file
+string gps_topic_name
+string gps_topic_type
+---
+string status

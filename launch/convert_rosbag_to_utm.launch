@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="rosbag_to_utm_converter" type="main.py" name="rosbag_to_utm_converter" output="screen">
+    </node>
+</launch>
